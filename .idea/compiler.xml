@@ -14,8 +14,8 @@
         <module name="Import_Service" />
         <module name="Visualize_Service" />
         <module name="Registry_Service" />
-        <module name="Gateway_Service" />
         <module name="Report_Service" />
+        <module name="Gateway_Service" />
         <module name="Parse_Service" />
       </profile>
     </annotationProcessing>

@@ -13,7 +13,7 @@
 
 <a name="project-overview"></a>
 ## Project Description
-The Integrated Data Intelligence Suite is a data-collection and data-mining platform that aims to facilitate the conversion of raw data into meaningful information through the use of statistics, natural language processing and machine learning technologies in order to become a valuable intelligence tool for any security application.The platforms target market is individuals and companies in the defence industry.
+The Integrated Data Intelligence Suite is a data-collection and data-mining platform that aims to facilitate the conversion of raw data into meaningful information through the use of statistics, natural language processing and machine learning technologies in order to become a valuable intelligence tool for any organization.
 <br><br>
 It aims to enhance the fluidity at which data can be imported and processed, the platform will handle both the pre-processing and post-processing of the data, with the objective being to allow the user to focus their efforts on analysing the data and using our extracted insights in their decision making process.
 
@@ -30,15 +30,16 @@ It aims to enhance the fluidity at which data can be imported and processed, the
   * [Version 1](https://drive.google.com/drive/folders/1ZRMPPnWl1-HEA_9O5I-z9Yo28eZJGeFe?usp=sharing)
   * [Version 2](https://drive.google.com/drive/folders/14kmO0cMqXNRhRyrHOQesGElyXNcm97fQ?usp=sharing)
   * [Version 3](https://drive.google.com/drive/folders/1bOlrq45IenFO2175vvWJfXkMIdHbBB4S?usp=sharing)
-  * [Version 4](https://drive.google.com/file/d/17gdtjC-3RLoj4fvSpO54PJA3qcTlCxwB/view?usp=sharing)
+  * [Version 4](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
 * Coding Standards 
-  * [Coding Standards](https://drive.google.com/file/d/17gdtjC-3RLoj4fvSpO54PJA3qcTlCxwB/view?usp=sharing)
+  * [Coding Standards](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
   * [React / JSX](https://github.com/COS301-SE-2021/Integrated-Data-Intelligence-Suite/blob/develop/frontend/coding%20standards/reactCodingStandards.md)
   * [Javascript](https://github.com/COS301-SE-2021/Integrated-Data-Intelligence-Suite/blob/develop/frontend/coding%20standards/javascriptCodingStandards.md)
   * [Css](https://github.com/COS301-SE-2021/Integrated-Data-Intelligence-Suite/blob/develop/frontend/coding%20standards/cssCodingStandards.md)
-* [Architectural Document](https://drive.google.com/file/d/17gdtjC-3RLoj4fvSpO54PJA3qcTlCxwB/view?usp=sharing)
-* [User Manual](https://drive.google.com/file/d/17gdtjC-3RLoj4fvSpO54PJA3qcTlCxwB/view?usp=sharing)
-* [Technical Installation](https://drive.google.com/file/d/17gdtjC-3RLoj4fvSpO54PJA3qcTlCxwB/view?usp=sharing)
+* [Architectural Document](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
+* [User Manual](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
+* [Technical Installation](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
+* [Testing Policy](https://drive.google.com/drive/folders/10fYhXaRXfoVa2CuwIZXvIz6KQ6MV8RLk?usp=sharing)
 
 <a name="project-board"></a>
 ## Project Management Tools
@@ -123,10 +124,9 @@ I love gaming, playing/watching soccer, and occasionally reading. <br>
 
 <p>
 <br>
-I'm a programmer always willing in improve myself, challenge me and I'll do you one better. <br>
-I am mainly interested in backend functionality, <br>
-but will take up other forms of programming happily. <br>
-In my spare time I like to gym, be outdoors, food and gamming <br>
+I am a programmer always willing in improve myself, challenge me and I'll do you one better. <br>
+I am mainly interested in backend functionality, but will take up other forms of programming happily. <br>
+In my spare time I like to gym, be outdoors, food and gaming <br>
 </p>
 </td>
 </tr>
@@ -200,8 +200,8 @@ We can change the world by changing the people around us, with memes!<br>
 <p>
 <br>
 I am very interested in Quantum computing <br>
-and how far it will rise in the future<br>
-my hobbies include gymming,watching movies, playing video games<br>
+and how far it will rise in the future.<br>
+my hobbies include gyming, watching movies and playing video games.<br>
 I enjoy coding and learning new things<br>
 </p>
 </td>
@@ -222,7 +222,7 @@ I enjoy coding and learning new things<br>
 
 <h1 align="right">Myron Lopes</h1>
 
-<p align="right"><em>UI, UX & Data Visualisation</em></p>
+<p align="right"><em>UI & Data Visualisation</em></p>
  <p align="right">
        <a href="https://www.linkedin.com/in/myron-lopes/">
         <img  alt="Linkedin" width="20px" height="20px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
